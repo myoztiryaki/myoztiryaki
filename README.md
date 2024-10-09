@@ -1,8 +1,8 @@
 **Hi, I am Merve!**
 
-## I am Data Scientist.
+## I am Data Engineer.
 
-* 💻 currently working as a Data Scientist.
+* 💻 currently working as a Data Engineer.
 * ☁️ trying to develop myself in Machine Learning.
 
 
