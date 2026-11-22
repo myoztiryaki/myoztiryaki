@@ -1,9 +1,9 @@
 **Hi, I am Merve!**
 
-## I am Data Engineer.
+## I am AI & Data Engineer.
 
-* 💻 currently working as a Data Engineer.
-* ☁️ trying to develop myself in Machine Learning.
+* 💻 currently working as a Data Engineer/ Instructor 
+* ☁️ n8n Edu Partner & Ambassador
 
 
 <a href="https://github.com/myoztiryaki">
